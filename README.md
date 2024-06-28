@@ -11,3 +11,7 @@
 
 # Day 4: 3D Product Showcase
 <img width="1485" alt="image" src="https://github.com/Shin123/100-day-js/assets/25724358/19403c7b-b07a-43e5-846d-14717803cf8f">
+
+# Day 5: Smart Watch
+<img width="808" alt="image" src="https://github.com/Shin123/100-day-js/assets/25724358/0aeba8e8-7ca0-4756-be5a-1fc14e40cce6">
+
