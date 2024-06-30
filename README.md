@@ -15,3 +15,5 @@
 # Day 5: Smart Watch
 <img width="808" alt="image" src="https://github.com/Shin123/100-day-js/assets/25724358/0aeba8e8-7ca0-4756-be5a-1fc14e40cce6">
 
+# Day 6: Header Slider
+<img width="1383" alt="image" src="https://github.com/Shin123/100-day-js/assets/25724358/e7e76dc2-dee7-4e6b-b108-036d495ce725">
