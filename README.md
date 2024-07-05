@@ -21,3 +21,5 @@
 # Day 7: Movie Card
 ![image](https://github.com/Shin123/100-day-js/assets/25724358/f186c745-fccd-4dfd-a5e1-24e0ad49e8b4)
 
+# Day 8: 3D Parallax Hover
+![Monosnapscreencast2024-07-0522-54-14-ezgif com-video-to-gif-converter](https://github.com/Shin123/100-day-js/assets/25724358/2ea1a06b-b64c-469a-868e-1a73f5be2e8a)
