@@ -23,3 +23,7 @@
 
 # Day 8: 3D Parallax Hover
 ![Monosnapscreencast2024-07-0522-54-14-ezgif com-video-to-gif-converter](https://github.com/Shin123/100-day-js/assets/25724358/2ea1a06b-b64c-469a-868e-1a73f5be2e8a)
+
+# Day 9: Todo List
+![image](https://github.com/Shin123/100-day-js/assets/25724358/fb9e274c-4030-4070-9309-9bff878c084f)
+
